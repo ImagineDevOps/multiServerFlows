@@ -1,7 +1,7 @@
-# Multi-Server-Setup
-This is the multi-server configuration  setup for dedicated server addresses for the panel, web, DNS, mail, and webmail. Both the DNS and mail server will have a mirror server for redundancy. 
+# Maintenance Configurations
+This is the multi-server playbooks for dedicated server addresses for the panel, web, DNS, mail, and webmail. Both the DNS and mail server will have a mirror server for redundancy. 
 
-<h1> Multiserver setup on Ubuntu 20.04 and Debian 10</h1>
+<h1> Multi-server Deployment</h1>
 <div class=contributeEdit style=float:right;width:450px;max-width:100%>
 <div id=tocContainer>
 <h3>On this page</h3>
